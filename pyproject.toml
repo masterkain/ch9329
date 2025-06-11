@@ -1,0 +1,7 @@
+[project]
+name = "ch9329"
+version = "0.1.0"
+description = "CH9329 Python Utility Toolkit"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = ["pynput>=1.8.1", "pyserial>=3.5"]
